@@ -10,3 +10,7 @@ Sometimes short sellers get it wrong; for example, Tesla.  A few years ago, many
 Individual investors using the forum on the Reddit online community named WallStreetBets, started buying into shares of GameStop, a video and computer-game retailer losing money. The influx of demand caused GameStop shares to soar.  All this produced billions of dollars in losses for hedge funds who had sold the stock short. [
  1
 ] GameStop's share price should fall eventually, so the Hedge funds should hold on to the short positions. As a data scientist working for a hedge fund, you will extract the profit data for Tesla and GameStop and build a dashboard to compare the price of the stock vs the profit for the hedge fund.
+
+
+
+![Screenshot 2025-04-17 160727](https://github.com/user-attachments/assets/492039a6-ba78-4ed9-ae48-7b77a0c827b8)
