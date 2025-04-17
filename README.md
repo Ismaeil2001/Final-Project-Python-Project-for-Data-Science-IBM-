@@ -12,5 +12,32 @@ Individual investors using the forum on the Reddit online community named WallSt
 ] GameStop's share price should fall eventually, so the Hedge funds should hold on to the short positions. As a data scientist working for a hedge fund, you will extract the profit data for Tesla and GameStop and build a dashboard to compare the price of the stock vs the profit for the hedge fund.
 
 
+Installing and Importing: - 
 
 ![Screenshot 2025-04-17 160727](https://github.com/user-attachments/assets/492039a6-ba78-4ed9-ae48-7b77a0c827b8)
+
+Define Graphing Function: -
+
+![image](https://github.com/user-attachments/assets/0a7070ad-5161-4529-aa29-855c52d9d1dd)
+
+Question 1: -
+
+![Screenshot 2025-04-17 145649](https://github.com/user-attachments/assets/bd1eac81-46c6-4f16-86c0-903154604511)
+
+Question 2: -
+
+![Screenshot 2025-04-17 155105](https://github.com/user-attachments/assets/6fe348b5-6c75-451a-b739-59b35524d355)
+
+Question 3: - 
+
+![Screenshot 2025-04-17 153953](https://github.com/user-attachments/assets/01d57ee4-9694-4b30-8330-9b3554543714)
+
+Question 4: -
+
+![Screenshot 2025-04-17 155116](https://github.com/user-attachments/assets/26c05488-fe07-400f-9941-f3f03521eef1)
+
+Question 5: - Use the make_graph function to graph the Tesla Stock Data, also provide a title for the graph. Note the graph will only show data upto June 2021.
+
+![Screenshot 2025-04-17 155448](https://github.com/user-attachments/assets/55bd33c1-3518-4e87-946a-a558394cc53f)
+
+![Screenshot 2025-04-17 155504](https://github.com/user-attachments/assets/70c16cde-ce9c-4422-8354-8a63b48e1116)
